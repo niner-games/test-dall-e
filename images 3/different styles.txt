@@ -1,0 +1,21 @@
+sprawdź, czy faktycznie przekazywanie URLi działa? Czy po kliknięciu tego:
+
+https://www.bing.com/images/create/a-mixed-media-portrait-of-a-female-african-america/6468a2a2baaa487785aa3e02d4926cec?FORM=GENCRE
+
+Widzisz, to co poniżej:
+
+a mixed media portrait of a female african american computer programmer, digital art, screen print, wheat paste poster
+
+
+
+​Przy okazji, zwróć uwagę na to, ile styli zostało użytych w opisie (i w samych obrazkach oczywiście). Widać, że można tu naprawdę sporo mieszać w jednym "produkcie", jeśli się dobrze to językowo ubierze.
+
+Jja też już pierwsze próby tego zaliczyłem. Np. styl Wild West z pierwszego maila na temat testów Dall-E zmieszałem z porą dnia -- późne popołudnie. Ale tu już pojechali na maksa, bo w jednym obrazku zmieszali (poza treścią):
+
+- styl (sztuka cyfrowa -- digital art),
+- metodę wydruku (sitodruk -- screen print),
+- a nawet w pewnym sensie sposób produkcji / naklejania -- wheat paste poster (https://www.nytimes.com/2020/06/09/magazine/how-to-wheat-paste-posters.html)
+
+mieszany portret afrykańskiej amerykańskiej programistki komputerowej, sztuka cyfrowa, sitodruk, plakat z pastą pszenną
+
+Tak, że... grubo moim zdaniem. 

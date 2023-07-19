@@ -1,0 +1,11 @@
+Chciałem sprawdzić, czy da się robić w Dall-E animacje (nie da się) i wyszło mi takie coś:
+
+> a short animation showing two people yelling at each other from a long distance.
+
+Próba odtworzenia tego dała takie rezultaty:
+
+> two people yelling at each other from a long distance, very simple drawing
+
+> two people yelling at each other from a long distance, simple colour drawing
+
+> two people yelling at each other from a long distance, colour drawing
