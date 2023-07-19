@@ -19,12 +19,12 @@ and generates four different images matching it. Depending on the description, r
 outstanding (fantasy and science-fiction images) to very poor (images containing human faces
 or a lot of text -- which DALL·E 2 cannot handle correctly at all at the moment).
 
-This repository follows this rule. Each graphical style that is tested (and presented) here has
-a textual description (exactly the same, word-to-word, that was used to feed DALL·E 2) and all 
+This repository follows that rule. Each graphical style that is tested (and presented) here has
+a textual description (word-to-word the same that was used to feed DALL·E 2) and all 
 four images that were generated based on it.
 
 WORK IN PROGRESS. STOP HERE. THE REMAINING PART OF THIS TEXT IS A GARBAGE GENERATED OUT OF OUR 
-TEMPLATE REPOSITORY AND HAS NOTHING TO DO WITH THE SUBUJECT (DALL·E 2 AI GENERATOR).
+TEMPLATE REPOSITORY AND HAS NOTHING TO DO WITH THE SUBJECT (DALL·E 2 AI GENERATOR).
 
 - [Tools](#tools)
     * [Passwords and keys](#passwords-and-keys)
