@@ -1,0 +1,20 @@
+Here we test not the whole sentences, but a single words or phrases only.
+
+We want to see what Dall-E 2 can generate, if we feed it with...
+
+...Diablo 4's item:
+
+- Cropier of Faith
+- Inarius Wings
+- Lightbringer Mount
+- Rage Amalgam Mount
+
+...our own game tile:
+
+- Almankagor
+- By the Sword
+
+...or even a creature name crafted by us:
+
+- Murloc
+- Teoriokrad
